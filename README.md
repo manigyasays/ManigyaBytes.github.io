@@ -1,1 +1,0 @@
-# ManigyaBytes.github.io
