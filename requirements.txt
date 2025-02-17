@@ -1,2 +1,2 @@
 Flask==3.1.0
-Werkzeug==2.3.4  # Compatible version with Flask 3.x
+Werkzeug>=3.1
